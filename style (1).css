@@ -19,7 +19,7 @@ text-decoration-line: underline;
 }
 img {
   float: right;
-  width: 300px;
+  width: 200px;
   height: 200px;
   border-radius: 50px;
   border-bottom-left-radius:50px;
@@ -27,4 +27,4 @@ img {
 li{
   font-family: cursive;
   color: mediumpurple;
-}5
+}
